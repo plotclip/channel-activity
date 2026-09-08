@@ -1,0 +1,5 @@
+# One handle or channel ID per line. Blank lines and # comments are skipped.
+# Both forms work:
+@CryptidHollow
+@HistoryHacksShorts
+UCvZeMY-woUfza36l9tVEFLg
