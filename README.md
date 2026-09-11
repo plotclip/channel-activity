@@ -63,7 +63,7 @@ in ways this does not see (community posts, livestreams that were not kept).
 ## Why this exists
 
 It produced the numbers in
-[We checked 117 faceless YouTube channels — 47% had stopped posting](https://plotclip.com/resources/faceless-channels-that-stopped-posting),
+[We checked 115 faceless YouTube channels — 47% had stopped posting](https://plotclip.com/resources/faceless-channels-that-stopped-posting),
 and it is published so anyone can check that work or run it on their own list.
 
 Built by [PlotClip](https://plotclip.com).
